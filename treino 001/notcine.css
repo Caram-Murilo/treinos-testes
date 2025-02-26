@@ -65,6 +65,7 @@ nav > abbr > a {
     text-decoration: none;
     font-family: var(--font-subtitulos);
     padding: 5px 10px 5px 10px;
+    margin: 10px;
 }
 
 nav > abbr > a:hover {
@@ -73,6 +74,7 @@ nav > abbr > a:hover {
     border-radius: 10px;
     text-decoration: underline;
     padding: 5px 10px 5px 10px;
+    transition-duration: 0.7s;
 }
 
 abbr {
@@ -97,8 +99,116 @@ main > h1 {
     box-shadow: -3px 2px 9px black;
 }
 
+aside {
+    position: relative;
+}
 
+.fundoimg {
+    border: 1px solid black;
+    height: 210px;
+    width: 160px;
+    display: inline-block;
+    margin: 20px 30px 20px 30px;
+    background-image: linear-gradient(to top, #eb4a44d8, #9e322ed0);
+    background-size: 20px;
+    border-radius: 5px 0px 5px 0px;
+    box-shadow: -3px 4px 0px black;
+}
 
+.container {
+    text-align: center;
+    margin-top: 30px;
+}
+
+#img1 {
+    padding-top: 20px;
+}
+#img1 > p {
+    color: white;
+    font-family: var(--font-padrao);
+}
+
+#img2{
+    padding-top: 20px;
+}
+#img2 > p {
+    color: white;
+}
+
+#img3 {
+    padding-top: 20px;
+}
+#img3 > p {
+    color: white;
+}
+
+#img4 {
+    padding-top: 20px;
+}
+#img4 > p {
+    color: white;
+}
+
+#img5 {
+    padding-top: 20px;
+}
+#img5 > p {
+    color: white;
+}
+
+#img6 {
+    padding-top: 20px;
+}
+#img6 > p {
+    color: white;
+}
+
+#img7 {
+    padding-top: 20px;
+}
+#img7 > p {
+    color: white;
+}
+
+#img8 {
+    padding-top: 20px;
+}
+#img8 > p {
+    color: white;
+}
+
+#img9 {
+    padding-top: 20px;
+}
+#img9 > p {
+    color: white;
+}
+
+#img10 {
+    padding-top: 20px;
+}
+#img10 > p {
+    color: white;
+}
+
+#img11 {
+    padding-top: 20px;
+}
+#img11 > p {
+    color: white;
+}
+
+#img12 {
+    padding-top: 20px;
+}
+#img12 > p {
+    color: white;
+}
+
+.imgs {
+    height: 185px;
+    width: 130px;
+}
 
 
 
